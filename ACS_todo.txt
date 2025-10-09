@@ -1,0 +1,13 @@
+Input: CAN commands
+
+Output: PWM waves
+
+To make it function: 
+Power management x
+Buzzer
+Programming port x
+USB (for pwr, programming, and logging) x
+CAN
+Servo JST connectors
+clock x
+
