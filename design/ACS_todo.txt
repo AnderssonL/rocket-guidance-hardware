@@ -3,7 +3,7 @@ Input: CAN commands
 Output: PWM waves
 
 To make it function: 
-Power management 3.3 and 5 x
+Power management 3.3 and 6 x
 Buzzer x
 Status LEDs x
 Programming port x
