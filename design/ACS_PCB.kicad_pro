@@ -523,7 +523,7 @@
           "group_by": false,
           "label": "Qty",
           "name": "${QUANTITY}",
-          "show": false
+          "show": true
         },
         {
           "group_by": true,
@@ -553,7 +553,7 @@
           "group_by": true,
           "label": "Footprint",
           "name": "Footprint",
-          "show": true
+          "show": false
         },
         {
           "group_by": false,
@@ -589,7 +589,7 @@
           "group_by": false,
           "label": "LCS Part",
           "name": "LCS Part",
-          "show": true
+          "show": false
         }
       ],
       "filter_string": "",
