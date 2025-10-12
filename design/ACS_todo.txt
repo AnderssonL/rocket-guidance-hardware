@@ -9,6 +9,6 @@ Status LEDs x
 Programming port x
 USB (for pwr, programming, and logging) x
 CAN x
-Servo JST connectors
+Servo JST connectorsx
 clock x
-
+sensors (cause fun) x

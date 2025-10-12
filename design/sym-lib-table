@@ -1,4 +1,4 @@
 (sym_lib_table
   (version 7)
-  (lib (name "ACS_easyeda2kicad")(type "KiCad")(uri "${KIPRJMOD}/.kicad_sym")(options "")(descr ""))
+  (lib (name "EasyEDA")(type "KiCad")(uri "${KIPRJMOD}/EasyEDA.kicad_sym")(options "")(descr ""))
 )
