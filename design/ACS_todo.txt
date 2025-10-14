@@ -12,3 +12,5 @@ CAN x
 Servo JST connectorsx
 clock x
 sensors (cause fun) x
+
+flytta all anvisningsgrejer till ok läge 
