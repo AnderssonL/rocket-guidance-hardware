@@ -13,4 +13,4 @@ Servo JST connectorsx
 clock x
 sensors (cause fun) x
 
-flytta all anvisningsgrejer till ok läge 
+flytta all anvisningsgrejer till ok läge x
